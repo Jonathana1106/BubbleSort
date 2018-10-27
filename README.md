@@ -1,0 +1,2 @@
+# BubbleSort
+Implementar el algoritmo de ordenamiento Bubblesort para dispositivos móviles. Puede ser desarrollado en Android o IOS. La aplicación debe generar un conjunto de elementos con valores aleatorios. La cantidad de elementos también debe ser aleatoria (entre 20 y 40 elementos). La aplicación debe mostrar el paso a paso de cómo se va ejecutando el algoritmo y al finalizar debe presentar la cantidad de comparaciones que realizó y la lista de elementos ordenados.
